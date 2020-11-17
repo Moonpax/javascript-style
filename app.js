@@ -1,4 +1,4 @@
-// Airbnb JavaScript Style Guide()
+// Airbnb JavaScript Style Guide
 // * https://github.com/airbnb/javascript
 
 // Руководство по стилю JavaScript от Airbnb не рекомендует использовать итераторы.
@@ -8,7 +8,6 @@
 // для итерации по массивам из объектов
 
 // * https://github.com/airbnb/javascript#iterators-and-generators
-
 
 // Google JavaScript Style Guide
 // * https://google.github.io/styleguide/jsguide.html
